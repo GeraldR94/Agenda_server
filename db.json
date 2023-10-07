@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "username": "Dario",
+      "id": 1
+    }
+  ],
+  "contactos": [
+    {
+      "nombre": "Felicia",
+      "telefono": "4261635289",
+      "id": 1696656069309
+    }
+  ]
+}
